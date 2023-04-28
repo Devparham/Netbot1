@@ -1,9 +1,9 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Tesgdt",
-  "Description": "Test Message",
+  "Title": "نسخه جدید",
+  "Description": "لطفا نسخه خود را بروز کنید",
   "MainTextButton": "Update",
-  "Cancelable": "false",
+  "Cancelable": "True",
   "CancelButtonText": "Cancel",
   "DownloadLink": "https://google.com",
   "Version": "1.0"

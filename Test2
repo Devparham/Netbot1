@@ -2,7 +2,7 @@
   "Visibility": "VISIBLE",
   "Title": "نسخه جدید",
   "Description": "لطفا نسخه خود را بروز کنید",
-  "MainTextButton": "Update",
+  "MainTextButton": "اپدیت",
   "Cancelable": "True",
   "CancelButtonText": "Cancel",
   "DownloadLink": "https://google.com",

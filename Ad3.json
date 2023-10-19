@@ -4,6 +4,6 @@
     "Text": "معرفی بروز ترین و خفن ترین هوش مصنوعی ها و آموزش استفاده در کانال رسمی نت بات",
     "Text1": "آموزش های خفن هوش مصنوعی!😍",
     "nameclick": "عضویت",
-    "Link": "if (!ready) {\n\tSketchwareUtil.showMessage(getApplicationContext(), \"مجددا کلیک کنید\");\n\treturn;\n}\nbp.purchase(PrudectActivity.this, Shenase);"
+    "Link": "rubika://l.rubika.ir/netbotapp"
   }
 ]
